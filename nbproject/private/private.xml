@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/fabricio/NetBeansProjects/ProjetoJavaJSF/src/conf/persistence.xml</file>
+            <file>file:/home/fabricio/NetBeansProjects/ProjetoJavaJSF/src/java/sessao/AbstractFacade.java</file>
+            <file>file:/home/fabricio/NetBeansProjects/ProjetoJavaJSF/web/pessoa/listar.xhtml</file>
+            <file>file:/home/fabricio/NetBeansProjects/ProjetoJavaJSF/web/welcomePrimefaces.xhtml</file>
+            <file>file:/home/fabricio/NetBeansProjects/ProjetoJavaJSF/src/java/managedBeans/PessoaManagedBean.java</file>
+            <file>file:/home/fabricio/NetBeansProjects/ProjetoJavaJSF/src/java/sessao/PessoaFacate.java</file>
+            <file>file:/home/fabricio/NetBeansProjects/ProjetoJavaJSF/web/pessoa/inserir.xhtml</file>
+            <file>file:/home/fabricio/NetBeansProjects/ProjetoJavaJSF/src/java/entidades/Pessoa.java</file>
+            <file>file:/home/fabricio/NetBeansProjects/ProjetoJavaJSF/web/index.xhtml</file>
+        </group>
+    </open-files>
+</project-private>
